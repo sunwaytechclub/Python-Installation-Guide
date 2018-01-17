@@ -1,7 +1,5 @@
 # Mac Python Installation Guide
 
-## Debian
-
 1. Go to https://www.python.org
 2. Click on downloads, and select "Python 3.6.4"
 
