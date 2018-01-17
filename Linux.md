@@ -15,7 +15,7 @@
 1. Install PyGame
 
     ```
-    python3 -m pip install pygame
+    $ python3 -m pip install pygame
     ```
 
 ## Fedora
@@ -33,7 +33,7 @@
 1. Install PyGame
 
     ```
-    python3 -m pip install pygame
+    $ python3 -m pip install pygame
     ```
 
 ## Arch Linux
@@ -51,5 +51,5 @@
 1. Install pygame
 
     ```
-    python3 -m pip install pygame
+    $ python3 -m pip install pygame
     ```
