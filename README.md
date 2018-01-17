@@ -4,7 +4,7 @@ This is a installation guide for Python
 
 ## Variant
 
-[Windows Installation Guide](http://docs.python-guide.org/en/latest/starting/install3/win/)
+[Windows Installation Guide](Window.md)
 
 [Linux Installation Guide](Linux.md)
 
