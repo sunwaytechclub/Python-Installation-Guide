@@ -3,10 +3,10 @@
 1. Go to https://www.python.org
 2. Click on downloads, and select "Python 3.6.4"
 
-![www.python.org](pythonorg.png)
+![www.python.org](pictures/pythonorg.png)
 3. Go through the installation instructions
 
-![Python mac installation](mac_installation.png)
+![Python mac installation](pictures/mac_installation.png)
 
 4. Restart Terminal
 ```
@@ -20,5 +20,5 @@ $ pip3 --version
 ```
 5. Install PyGame
 ```
-python3 -m pip install pygame
+$ python3 -m pip install pygame
 ```
