@@ -9,15 +9,9 @@
 
     $ python3 --version
 
-    # Make sure the output should be 3.6.*
+    # Make sure the output should be 3.6.* or 3.7.*
     ```
-
-1. Install PyGame
-
-    ```
-    $ python3 -m pip install pygame
-    ```
-
+    
 ## Fedora
 
 1. Install python3 and pip3
@@ -27,13 +21,7 @@
 
     $ python3 --version
 
-    # Make sure the output should be 3.6.*
-    ```
-
-1. Install PyGame
-
-    ```
-    $ python3 -m pip install pygame
+    # Make sure the output should be 3.6.* or 3.7.*
     ```
 
 ## Arch Linux
@@ -45,11 +33,5 @@
 
     $ python --version
 
-    # Make sure the version is 3.6.*
-    ```
-
-1. Install pygame
-
-    ```
-    $ python3 -m pip install pygame
+    # Make sure the version is 3.6.* or 3.7.*
     ```
